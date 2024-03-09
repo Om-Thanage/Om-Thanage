@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects which makes life easier.
 - 📫 How to reach me omsthanage2005@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I ❤️ eat
+- ⚡ Fun fact: I ❤️ to eat
 
 <!---
 Om-Thanage/Om-Thanage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
