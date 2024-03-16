@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Om Thanage
 - 👀 I’m interested in web development, AI, and machine learning.
-- 🌱 I’m currently studying at K.J. Somaiya College of Engineering
--     (B.Tech Computer Engineering)
+- 🌱 I’m currently studying at K.J. Somaiya College of Engineering (B.tech Computer Engineering)
 - 💞️ I’m looking to collaborate on projects that make life easier.
 - 📫 How to reach me omsthanage2005@gmail.com
 - 😄 Pronouns: He/Him
