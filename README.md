@@ -31,6 +31,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Om-Thanage&theme=dark" alt="GitHub Streak" /></a>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Om-Thanage.Om-Thanage" />
 
 
 
