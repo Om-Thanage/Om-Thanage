@@ -51,11 +51,12 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&color=black) 
 
 <h2>
-  <p>Github Stats:</p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2hzNWhjdHpjMDBsZ2lwZ3JkamtleGtlbmxzamlubGg2NXN4OGRnZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats_animation" width="30" />
+  Github Stats:
+</h2>
   <a href="https://github.com/Om-Thanage" target="_blank">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Om-Thanage&theme=tokyonight" />
   </a>
-</h2>
 
 
 
