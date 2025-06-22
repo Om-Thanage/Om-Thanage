@@ -1,7 +1,7 @@
 <h2 align="center">
   <p>Hi, I am Om Thanage ✌️</p>
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=4000&pause=1000&background=0C1017&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%98%BB;2x+%F0%9F%8F%86+Hackathon+Finalist" alt="Om Thanage Highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=4000&pause=1000&color=00FF13&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%98%BB;2x+%F0%9F%8F%86+Hackathon+Finalist" alt="Om Thanage Highlights" />
   </div>
   <div align="center">
   <a href="https://www.linkedin.com/in/omthanage/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
