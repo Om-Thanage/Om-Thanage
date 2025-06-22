@@ -51,7 +51,7 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&color=black) 
 
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2hzNWhjdHpjMDBsZ2lwZ3JkamtleGtlbmxzamlubGg2NXN4OGRnZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats_animation" width="30" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHozaDluOTZmY2k0dTZ6NG43NWE3bDRidTg1Nm51aXF3emw5ZXJ4MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cj87CxfRtrUifF3Ryk/giphy.gif" alt="stats_animation" width="30" />
   Github Stats:
 </h2>
   <a href="https://github.com/Om-Thanage" target="_blank">
