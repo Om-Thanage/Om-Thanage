@@ -10,7 +10,7 @@
 
 </div>
 <br />
-  <img src="https://profile-counter.glitch.me/om-thanage/count.svg" alt="github_visitor_count" />
+  <img src="https://count.getloli.com/@Om-Thanage?name=Om-Thanage&theme=minecraft&padding=5&offset=0&align=top&scale=0.6&pixelated=1&darkmode=auto" alt="github_visitor_count" />
 <br />
 
   <p align="left"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJvbnhpa3FrZ2JjdnA5bHY0cm5ldDdoaG1sZGVwOGR3YzdyeXVsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="30"/>Tech Stack:</p>
